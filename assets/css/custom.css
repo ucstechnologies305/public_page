@@ -1,0 +1,11 @@
+.services .service-item ul,li {
+    list-style: circle;
+}
+
+.services .service-item .info {
+      margin-left: 100px;
+}
+
+.info-item {
+  margin-top: 30px !important;
+}
